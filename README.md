@@ -1,5 +1,5 @@
 # DatabaseDemo
-#### Incredible simple Demo of using SQLite Database in Android
+#### Incredible simple Demo of using a SQLite Database in Android
 This App will demo a few easy to use SQL concepts so that you can begin using databases in your apps. This is NOT in any way a comprehensive tutorial or explanation. It simply introduces a few common use cases for a database and how you would accomplish those tasks.
 
 ## References
